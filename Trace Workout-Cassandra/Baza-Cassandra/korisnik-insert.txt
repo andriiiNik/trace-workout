@@ -1,0 +1,36 @@
+INSERT INTO "Korisnik"("jmbg","godine_starosti", "ime", "pol", "prezime", "tezina", "visina")
+VALUES (
+'1407997735060',
+'22' ,
+'Nevenka' ,
+'zensko' ,
+'Nedeljkovic' ,
+'90' ,
+'175' );
+INSERT INTO "Korisnik"("jmbg","godine_starosti", "ime", "pol", "prezime", "tezina", "visina")
+VALUES (
+'3001998756011',
+'23' ,
+'Nedeljko' ,
+'muski' ,
+'Drobnjakovic' ,
+'86' ,
+'190' );
+INSERT INTO "Korisnik"("jmbg","godine_starosti", "ime", "pol", "prezime", "tezina", "visina")
+VALUES (
+'0307997735075',
+'26' ,
+'Sara' ,
+'zensko' ,
+'Markovic' ,
+'64' ,
+'167' );
+INSERT INTO "Korisnik"("jmbg","godine_starosti", "ime", "pol", "prezime", "tezina", "visina")
+VALUES (
+'3006968596312',
+'45' ,
+'Jakov' ,
+'muski' ,
+'Sojic' ,
+'80' ,
+'165' );

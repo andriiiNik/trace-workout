@@ -1,0 +1,31 @@
+INSERT INTO "Dnevni_unos_pica"("jmbg","datum", "kalorijska_vrednost", "vrsta_pica")
+VALUES (
+     '3001995756012',
+   ' Sunday, April 19, 2019' ,
+  '69kcal' ,
+ 'vodka' );
+
+INSERT INTO "Dnevni_unos_pica"("jmbg","datum", "kalorijska_vrednost", "vrsta_pica")
+VALUES (
+     '3001998756011',
+   ' Monday, November 26, 2017' ,
+  '53kcal' ,
+ 'sok' );
+INSERT INTO "Dnevni_unos_pica"("jmbg","datum", "kalorijska_vrednost", "vrsta_pica")
+VALUES (
+     '2304997569336',
+   ' Friday, May 10, 2014' ,
+  '98kcal' ,
+ 'cedevita' );
+INSERT INTO "Dnevni_unos_pica"("jmbg","datum", "kalorijska_vrednost", "vrsta_pica")
+VALUES (
+     '1710974321254',
+   ' Sunday, Jul 04, 2018' ,
+  '42kcal' ,
+ 'bezalkoholni_koktel' );
+INSERT INTO "Dnevni_unos_pica"("jmbg","datum", "kalorijska_vrednost", "vrsta_pica")
+VALUES (
+     '1010990235630',
+   ' Sunday, March 07, 2019' ,
+  '250kcal' ,
+ 'cedjeno_voce' );

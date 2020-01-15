@@ -1,0 +1,35 @@
+CREATE TABLE "Fizicka_aktivnost" (
+    "jmbg" text,
+    "datum" text,
+    "predjeni_km" text,
+   "tip_aktivnosti" text,
+ "vreme" text,
+    PRIMARY KEY("jmbg")
+);
+CREATE TABLE "Dnevni_unos_hrane" (
+    "jmbg" text,
+    "datum" text,
+    "kalorijska_vrednost_namirnice" text,
+   "namirnica" text,
+    "obrok" text,
+    PRIMARY KEY ("jmbg")
+);
+
+CREATE TABLE "Dnevni_unos_pica" (
+    "jmbg" text,
+	"datum" text,
+    "kalorijska vrednost" text,
+    "vrsta_pica" text,
+     PRIMARY KEY ("jmbg")
+);
+
+CREATE TABLE "Korisnik" (
+    "jmbg" text,
+	"godine_starosti" text,
+    "ime" text,
+    "pol" text,
+    " prezime" text,
+  "tezina" text,
+  "visina" text,
+     PRIMARY KEY ("jmbg")
+);

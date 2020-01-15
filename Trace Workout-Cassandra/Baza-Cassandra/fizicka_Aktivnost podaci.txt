@@ -1,0 +1,45 @@
+
+INSERT INTO "Fizicka_aktivnost" ("jmbg", "datum", "predjeni_km", "tip_aktivnosti", "vreme")
+VALUES (
+    '3001998756011',
+    'Friday, January 15, 2019',
+    '20km',
+    'brzo hodanje',
+    '120min');
+
+   INSERT INTO "Fizicka_aktivnost" ("jmbg", "datum", "predjeni_km", "tip_aktivnosti", "vreme")
+VALUES (
+    '1407997607010',
+    'Friday, January 30, 2009',
+    '7km',
+    'trcanje',
+    '4min');
+    
+INSERT INTO "Fizicka_aktivnost" ("jmbg", "datum", "predjeni_km", "tip_aktivnosti", "vreme")
+VALUES (
+    '0909968456310',
+    'Monday, March 23, 2017',
+    '10km',
+    'setanje',
+    '31min');
+    INSERT INTO "Fizicka_aktivnost" ("jmbg", "datum", "predjeni_km", "tip_aktivnosti", "vreme")
+VALUES (
+    '1704977456975',
+    'Sunday, October 2, 2015',
+    '14km',
+    'trcanje',
+    '7min');
+INSERT INTO "Fizicka_aktivnost" ("jmbg", "datum", "predjeni_km", "tip_aktivnosti", "vreme")
+VALUES (
+    '3001998756011',
+    'Monday, February 13, 2017',
+    '26km',
+    'brzo_hodanje',
+    '150min');
+    INSERT INTO "Fizicka_aktivnost" ("jmbg", "datum", "predjeni_km", "tip_aktivnosti", "vreme")
+VALUES (
+    '1304977456971',
+    'Thusday, October 17, 2016',
+    '22km',
+    'trcanje',
+    '16min');

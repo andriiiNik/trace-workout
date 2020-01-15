@@ -1,0 +1,56 @@
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'3001998756011',
+'Monday, May 14,2017' ,
+'140kcal' ,
+'pica' ,
+'dorucak' );
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'1407997706010',
+'Friday, April 17,2018' ,
+'210kcal' ,
+'ovsena kasa' ,
+'dorucak' );
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'3001998756011',
+'Tuesday, November 27,2016' ,
+'120kcal' ,
+'jabuka' ,
+'uzina' );
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'1304996852314',
+'Wendsday, October 14,2014' ,
+'250kcal' ,
+'riba' ,
+'vecera' );
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'3001998756011',
+'Monday, May 14,2017' ,
+'140kcal' ,
+'pica' ,
+'dorucak' );
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'1407997706010',
+'Friday, April 17,2018' ,
+'210kcal' ,
+'ovsena kasa' ,
+'dorucak' );
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'3001998756011',
+'Tuesday, November 27,2016' ,
+'120kcal' ,
+'jabuka' ,
+'uzina' );
+INSERT INTO "Dnevni_unos_hrane"("jmbg", "datum", "kalorijska_vrednost_namirnice", "namirnica", "obrok")
+VALUES (
+'1407997735060',
+'Wendsday, October 19,2016' ,
+'300kcal' ,
+'krofna' ,
+'uzina' );
